@@ -4,6 +4,4 @@
 
 [![FARAZUL HODA's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/farazul)
     
-<a href="https://dev.to/farazul">
-  <i class="fab fa-dev" title="farazul's DEV Profile"></i>
-</a>
+
