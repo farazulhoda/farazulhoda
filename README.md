@@ -5,8 +5,7 @@
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
 <p align='center'>
-    
-<!-- start statics fun section -->
+  
 <details>
 <summary><b> Some Statistics Fun </b></summary>
 <img src='https://github-readme-stats.vercel.app/api?username=farazul&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
