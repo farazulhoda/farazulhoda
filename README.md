@@ -4,7 +4,7 @@
   <a href="http://linkedin.com/in/farazul-hoda-5b0510122/" target="_blank" rel="nofollow"><img align="left" alt="Faraz's Linkdein" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
  
-<h1 align="center"><\HelloWorld><img src="https://hcti.io/v1/image/e9d81d8c-2ac6-4cd9-86dc-dd046f9f5cf1" width="30px">
+<h1 align="center"><\HelloWorld><img src="https://hcti.io/v1/image/e9d81d8c-2ac6-4cd9-86dc-dd046f9f5cf1" width="1080px">
 </h1>
   
  <p align='center'>
