@@ -8,7 +8,8 @@
  ****
  
 <h1 align="center">Hi there, I am Faraz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/farazul)
+</h1>  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/farazul)
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
 <p align='center'>
