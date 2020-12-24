@@ -7,7 +7,7 @@
  
 <h1 align="center">Hi there, I am Faraz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>  
-<h3>iOS Developer || Cybersecurity Enthusiast || Technical Team Head at Codezilla Mozilla Community</h3>
+<h3>iOS Developer || Cybersecurity Enthusiast || Technical Team Head @ Codezilla: Mozilla Community</h3>
 
 
 <p align='center'>
