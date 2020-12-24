@@ -6,7 +6,7 @@
   <a href="http://linkedin.com/in/farazul-hoda-5b0510122/" target="_blank" rel="nofollow"><img align="left" alt="Faraz's Linkdein" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
  
-<h1 align="center"><\HelloWorld><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="right"><\HelloWorld><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
 <p align='center'>
