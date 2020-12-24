@@ -7,8 +7,7 @@
 
  ****
  
- ### Hello World, 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/farazul)
- ### $whoami:
+ ### Hello World, I am Faraz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/farazul)
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
 <p align='center'>
