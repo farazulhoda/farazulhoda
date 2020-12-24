@@ -1,8 +1,7 @@
 <h1 align="center"><\HelloWorld><img src="https://hcti.io/v1/image/e9d81d8c-2ac6-4cd9-86dc-dd046f9f5cf1" width="1080px">
 </h1>
   
- <a href="https://dev.to/farazul">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="FARAZUL HODA's DEV Profile" height="50" width="30">  
+ <a href="https://dev.to/farazul" target="_blank" rel="nofollow"><img align="right" alt="Faraz's Dev" width="30" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
  <a href="http://linkedin.com/in/farazul-hoda-5b0510122/" target="_blank" rel="nofollow"><img align="right" alt="Faraz's Linkdein" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  <a href="https://twitter.com/farazul_hoda" target="_blank" rel="nofollow"><img align="center" alt="Faraz's twitter" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
    <a href="https://www.youtube.com/channel/UCrHXlEySeTzZcwoI97wtQuw/about?view_as=subscriber" target="_blank" rel="nofollow"><img align="right" alt="Faraz's YouTube" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
