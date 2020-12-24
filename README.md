@@ -7,9 +7,7 @@
  </a>
  
 <h1 align="center"><\HelloWorld><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>  
-<h3>FarazulHoda @ iOS Developer || DevSecOps Enthusiast || Technical Team Head @ Codezilla: Mozilla Community</h3>
-
+</h1>
 
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
