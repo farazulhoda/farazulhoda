@@ -1,6 +1,8 @@
 <a href="https://dev.to/farazul">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="FARAZUL HODA's DEV Profile" height="50" width="30">
  </a>
+ 
+ ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/farazul)
     
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
