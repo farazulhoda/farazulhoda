@@ -1,4 +1,4 @@
-<h1 align="center"><\HelloWorld><img src="https://hcti.io/v1/image/e9d81d8c-2ac6-4cd9-86dc-dd046f9f5cf1" width="1080px">
+<h1 align="center"><img src="https://hcti.io/v1/image/e9d81d8c-2ac6-4cd9-86dc-dd046f9f5cf1" width="1080px">
 </h1>
   
  <a href="https://dev.to/farazul" target="_blank" rel="nofollow"><img align="left" alt="Faraz's Dev" width="30" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"/>
