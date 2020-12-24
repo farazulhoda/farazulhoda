@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/farazul)
 <a href="https://dev.to/farazul">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="FARAZUL HODA's DEV Profile" height="50" width="30">
   
@@ -6,8 +7,8 @@
  
 <h1 align="center">Hi there, I am Faraz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>  
+<h3>iOS Developer || Cybersecurity Enthusiast || Technical Team Head at Codezilla Mozilla Community</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/farazul)
 
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
