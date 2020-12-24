@@ -4,15 +4,15 @@
   <a href="http://linkedin.com/in/farazul-hoda-5b0510122/" target="_blank" rel="nofollow"><img align="left" alt="Faraz's Linkdein" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
  
-<h1 align="center"><\HelloWorld><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center"><\HelloWorld><img src="https://hcti.io/v1/image/e9d81d8c-2ac6-4cd9-86dc-dd046f9f5cf1" width="30px">
 </h1>
+  
+ <p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+<p align='center'>
  
 <img src='https://github-readme-stats.vercel.app/api?username=farazul&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=farazul&theme=tokyonight&hide_langs_below=4' />
-
-<p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
-<p align='center'>
 
 - 😄 Pronouns:<b>He/him</b>
 - 🔭 I’m currently working on <b>iOS Development, Linux/Network & Firewall Administration, AWS,GCP </b>
