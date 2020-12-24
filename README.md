@@ -19,3 +19,6 @@
 - 🤔 I’m looking for help with <b>Cloud Services</b>
 - 💬 Ask me about <b>Cosmology and Techs</b>
 </p>
+
+****
+[![Profile views](http://hits.dwyl.com/farazul/farazul.svg)](http://hits.dwyl.com/farazul/farazul)
