@@ -2,6 +2,19 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="FARAZUL HODA's DEV Profile" height="30" width="30">
 </a>
     
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
+
+<p align='center'>
+[<a href='https://github.com/Soldy/ama/issues/new'>Ask a question</a>] ||
+[<a href='https://github.com/Soldy/ama/issues?q=is%3Aissue+is%3Aclosed'>Read questions</a>]
+</p>
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soldy&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+</p>
+
+
 - 🔭 I’m currently working on <b>iOS Development, Linux/Network & Firewall Administration, AWS,GCP </b>
 - 🌱 I’m currently learning <b>Swift, Shell, Cloud Security</b>
 - 👯 I’m looking to collaborate on <b>iOS App Dev</b>
