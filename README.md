@@ -33,3 +33,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=farazul)
 
 ****
+![Profile views](https://gpvc.arturio.dev/farazul)
