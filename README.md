@@ -18,6 +18,8 @@
 <img src='https://github-readme-stats.vercel.app/api?username=farazul&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=farazul&theme=tokyonight&hide_langs_below=4' />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=farazul&theme=onedark)](https://github.com/farazul/github-profile-trophy) 
+
 ****
 
 - 😄 Pronouns:<b>He/him</b>
