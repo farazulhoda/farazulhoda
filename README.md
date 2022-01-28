@@ -1,4 +1,4 @@
-mrb1nary@farazulHoda ~ % whoami
+mrb1nary@farazulHoda ~ % whoami </b>
 CS Engineer and Astrophile🔭💻
 - 🔭 I’m currently working on <b>iOS Development, Linux/Network & Firewall Administration, AWS,GCP </b>
 - 🌱 I’m currently learning <b>Swift, Shell, Cloud Security</b>
