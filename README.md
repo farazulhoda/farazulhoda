@@ -1,7 +1,7 @@
 # Farazul Hoda: Illinois Institute Of Technology, Chicago,🇺🇸
 
 >> Masters in Computer Science
-      - Concentration: **Specialization in Information Security and Assurance**
+      - : **Specialization in Information Security and Assurance**
    
    mrb1nary@farazulHoda ~ % whoami
 - 💻 I’m currently working on <b>Linux/Network & Firewall Administration, AWS,GCP </b>
