@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with <b>Cloud Security</b>
 - 💬 Ask me about <b>Cosmology and Cybersecurity</b>
 
-Here attached is my resume.
+Here attached is my resume. 🔗
 ![farazulhoda-resume](https://user-images.githubusercontent.com/42433776/192333548-f183aa5b-2218-4208-9074-cf8211b1bb3f.jpg)
 </p>
 
