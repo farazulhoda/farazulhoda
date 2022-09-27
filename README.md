@@ -1,4 +1,4 @@
-![original-linkedin-color-icon](https://user-images.githubusercontent.com/42433776/192594081-dd9c9103-c58e-4158-9c27-f237b53c3d91.png)# <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="farazul-hoda" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/farazul-hoda?trk=profile-badge">Farazul Hoda</a></div>: Illinois Institute Of Technology, Chicago,🇺🇸
+![original-linkedin-color-icon](https://user-images.githubusercontent.com/42433776/192594081-dd9c9103-c58e-4158-9c27-f237b53c3d91.png) <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="farazul-hoda" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/farazul-hoda?trk=profile-badge">Farazul Hoda</a></div>: Illinois Institute Of Technology, Chicago,🇺🇸
 
 >> Masters in Computer Science
        : **Specialization in Information Security and Assurance**
