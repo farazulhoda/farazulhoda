@@ -15,4 +15,4 @@ Here attached is my resume. 🔗
 </p>
 
 ****
-![Profile views](https://gpvc.arturio.dev/farazul)
+![Profile views](https://gpvc.arturio.dev/farazulhoda)
