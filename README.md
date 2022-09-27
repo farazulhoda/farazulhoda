@@ -2,7 +2,8 @@
 
 >> Masters in Computer Science
        : **Specialization in Information Security and Assurance**
-   
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
    mrb1nary@farazulHoda ~ % whoami
 - 💻 I’m currently working on <b>Linux/Network & Firewall Administration, AWS,GCP </b>
 - 🌱 I’m currently learning <b>Swift, Shell, Cloud+Network Security</b>
