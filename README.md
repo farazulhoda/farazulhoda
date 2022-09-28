@@ -2,7 +2,7 @@
 
 >> **🎓Illinois Institute Of Technology, Chicago, 🇺🇸**
 >> 
- Masters in Computer Science and Specialization in Information Security and Assurance
+ **Masters in Computer Science and Specialization in Information Security and Assurance**
 
    mrb1nary@farazulHoda ~ % whoami
 - 💻 I’m currently working on <b>Linux/Network & Firewall Administration, AWS,GCP </b>
