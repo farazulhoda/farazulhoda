@@ -1,7 +1,6 @@
-# <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="farazul-hoda" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/farazul-hoda?trk=profile-badge">Farazul Hoda</a></div>🎓Illinois Institute Of Technology, Chicago, 🇺🇸
+# <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="farazul-hoda" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/farazul-hoda?trk=profile-badge">Farazul Hoda</a></div>
 
->> Masters in Computer Science
-       : **Specialization in Information Security and Assurance**
+>> ** 🎓Illinois Institute Of Technology, Chicago, 🇺🇸 **
 
    mrb1nary@farazulHoda ~ % whoami
 - 💻 I’m currently working on <b>Linux/Network & Firewall Administration, AWS,GCP </b>
