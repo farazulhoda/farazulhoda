@@ -11,7 +11,8 @@
 - 💬 i'd love to talk on <b>Cosmology and Cybersecurity</b>
 
 Here attached is my resume. 🔗
-![farazulhoda-resume](https://user-images.githubusercontent.com/42433776/192333548-f183aa5b-2218-4208-9074-cf8211b1bb3f.jpg)
+![Resume_Hoda_Farazul](https://user-images.githubusercontent.com/42433776/192667999-f07e7600-5c80-465f-aced-924abd31879f.jpg)
+
 </p>
 
 ****
