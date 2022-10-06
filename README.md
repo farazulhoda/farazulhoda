@@ -13,6 +13,7 @@
  >> Here attached is my resume. 🔗
  >> 
 ![Resume_Hoda_Farazul](https://user-images.githubusercontent.com/42433776/192667999-f07e7600-5c80-465f-aced-924abd31879f.jpg)
+
 <a style="display: inline-block; border: 0; text-decoration: none;" href="http://vsco.co/mrb1nary?utm_source=user_grid&utm_medium=user_website&utm_campaign=link_to_grid"><img style="width: 32px; height: 32px; margin: 0px;" src="http://assets.vsco.co/assets/images/assets/Logo_white_32.png" alt="VSCO Logo" /></a>
 </p>
 
