@@ -8,7 +8,9 @@
 - 🌱 I’m currently learning <b>Swift, Shell, Cloud+Network Security</b>
 - 👯 I’m looking to collaborate on <b>iOS App Dev</b>
 - 🤔 I’m looking for help with <b>Cloud Security</b>
-- 💬 i'd love to talk on <b>Cosmology and Cybersecurity</b>
+- 💬 i'd love to talk on <b>Cosmology and Photgraphy</b>
+
+<a style="display: inline-block; border: 0; text-decoration: none;" href="http://vsco.co/mrb1nary?utm_source=user_grid&utm_medium=user_website&utm_campaign=link_to_grid"><img style="width: 32px; height: 32px; margin: 0px;" src="http://assets.vsco.co/assets/images/assets/Logo_white_32.png" alt="VSCO Logo" /></a>
 
  >> Here attached is my resume. 🔗
  >> 
