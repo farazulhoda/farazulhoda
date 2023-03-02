@@ -3,7 +3,7 @@
 **Masters in Computer Science and Specialization in Information Security and Assurance**
 >>  **🎓Illinois Institute Of Technology, Chicago, 🇺🇸 **
 ![Farazul_Hoda.pdf](https://github.com/farazulhoda/k-Anomymity/files/10868204/Farazul_Hoda.pdf)
-<<
+
    mrb1nary@farazulHoda ~ % whoami
 - 💻 I’m currently working on <b>Linux/Network & Firewall Administration, AWS,GCP </b>
 - 🌱 I’m currently learning <b>Swift, Shell, Cloud+Network Security</b>
