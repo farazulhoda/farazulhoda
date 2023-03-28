@@ -3,6 +3,9 @@
 # **Master of Computer Science with Specialization in Information Security and Assurance**
 >>  **🎓Illinois Institute Of Technology, Chicago, 🇺🇸**
 
+[![Faraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farazulhoda&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/farazulhoda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farazulhoda&layout=compact&theme=calm)](https://github.com/farazulhoda/github-readme-stats)
+
    mrb1nary@farazulHoda ~ % whoami
 - 💻 I’m currently working on <b>Linux/Network & Firewall Administration, AWS,GCP </b>
 - 🌱 I’m currently learning <b>Swift, Shell, Cloud+Network Security</b>
