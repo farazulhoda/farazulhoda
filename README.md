@@ -3,7 +3,8 @@
 # **Master of Computer Science with Specialization in Information Security and Assurance**
 >>  **🎓Illinois Institute Of Technology, Chicago, 🇺🇸**
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0eeafeda-8128-495e-a998-3b0e8831df6a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0eeafeda-8128-495e-a998-3b0e8831df6a" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
    mrb1nary@farazulHoda ~ % whoami
 - 💻 I’m currently working on <b>Linux/Network & Firewall Administration, AWS,GCP </b>
